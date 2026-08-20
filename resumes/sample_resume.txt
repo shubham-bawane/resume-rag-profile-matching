@@ -1,0 +1,20 @@
+John Doe
+
+Summary
+Data Scientist with 5+ years of experience in machine learning, Python, SQL, and NLP. Built recommendation systems and production AI features for B2B products. Strong experience with Python, pandas, scikit-learn, PyTorch, and cloud tools.
+
+Skills
+Python, SQL, Machine Learning, NLP, PyTorch, scikit-learn, pandas, Docker, AWS
+
+Experience
+Senior Data Scientist, Acme Analytics
+- Built ML pipelines for churn prediction and recommendation systems.
+- Led NLP projects using transformer models and feature extraction.
+- Worked with event-driven ETL pipelines and customer analytics.
+
+Data Analyst, Bright Labs
+- Built dashboards and validated data quality for customer product metrics.
+- Used SQL and Python to create forecasting models.
+
+Education
+B.Tech in Computer Science, IIT Delhi

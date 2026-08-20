@@ -1,0 +1,1 @@
+We are looking for a Senior Data Scientist with 5+ years of experience in Python, machine learning, SQL, and NLP. Must have strong knowledge of PyTorch, scikit-learn, pandas, AWS, and Docker. The ideal candidate should be comfortable building production AI systems and working with data pipelines.
